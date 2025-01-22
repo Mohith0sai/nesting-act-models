@@ -51,5 +51,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or contributions, please contact:
-- [Your Name](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Mohith (mailto:donthumohithsai@gmail.com)
+- LinkedIn: [Mohith Sai Kumar](https://www.linkedin.com/in/dounth-mohith-sai-kumar-b3682524b/)
+
